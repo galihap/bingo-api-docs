@@ -13,6 +13,11 @@ includes:
   - card/card-intro
   - card/create-card
   - card/retrieve-card
+  - promotion/promotion-intro
+  - promotion/retrieve-promotion
+  - promotion/create-promotion
+  - promotion/update-promotion
+  - promotion/delete-promotion
   - errors
 
 search: true
